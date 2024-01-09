@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS category;
+DROP TABLE IF EXISTS subcategory;
+DROP TABLE IF EXISTS contacts;
+DROP TABLE IF EXISTS campaign;
